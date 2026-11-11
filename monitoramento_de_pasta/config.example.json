@@ -1,0 +1,22 @@
+{
+    "caminho_monitorado": "",
+    "intervalo_de_verificacao": 15,
+    "iniciar_com_windows": true,
+    "abrir_ao_iniciar": false,
+    "notificacoes_ativas": true,
+    "notificar_exclusao": true,
+    "notificar_modificacao": true,
+    "notificar_criacao": true,
+    "notificar_renomeacao": true,
+    "notificar_desconexao": true,
+    "limite_historico": 10000,
+    "debounce_segundos": 2.0,
+    "calcular_hash_ate_mb": 25,
+    "preferencias_de_interface": {
+        "tema": "escuro",
+        "filtro_padrao": "TODAS",
+        "ordenacao_desc": true,
+        "largura_janela": 1120,
+        "altura_janela": 740
+    }
+}
